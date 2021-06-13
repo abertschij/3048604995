@@ -4,3 +4,4 @@ cpu i7-9750H
 wifi：intelac9560 （无解）
 目前：声卡ok 触控板ok支持手势 电池ok 
 不能工作：wifi 独显
+QQ交流群：279576114
